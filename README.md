@@ -1,5 +1,5 @@
 # FileLister
-
+**A simple file browser that shows folder sizes to help identify space-consuming or unneeded files.**
 
 <p align="center">
 <img src="image.png" alt="FileLister" title="FileLister">
