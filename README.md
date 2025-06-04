@@ -16,3 +16,10 @@ cd build
 cmake ..
 cmake --build .
 ```
+
+## External Dependencies
+
+- **ImGui** – used for GUI. Not included in the repository.
+  - Path: `external/imgui/`
+  - Source: [https://github.com/ocornut/imgui](https://github.com/ocornut/imgui)
+  - Automatically downloaded and built via CMake.
